@@ -1,0 +1,8 @@
+{
+  "name": "GeoGuesser",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "653c9b37"
+}

@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "GeoGuesser",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
